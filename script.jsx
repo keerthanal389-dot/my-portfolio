@@ -4,7 +4,7 @@ const { useState } = React;
 function App() {
   const [menuOpen, setMenuOpen] = useState(false);
 
-  const githubUrl = "https://github.com/keerthana1389-dot";
+  const githubUrl = "https://github.com/keerthanal389-dot";
   const linkedInUrl = "https://www.linkedin.com/in/keerthana-lakshmi-a8a2a6325";
   const email = "keerthanal389@gmail.com";
 
@@ -482,3 +482,4 @@ function App() {
 }
 
 ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+
